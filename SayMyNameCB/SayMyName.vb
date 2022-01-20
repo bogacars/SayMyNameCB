@@ -5,7 +5,7 @@ Module SayMyName
     'RCET0265  
     'Spring 2022
     'Say My Name
-    '
+    'https://github.com/bogacars/SayMyNameCB.git
     Sub Main()
         'set userInput as string input
         Dim userInput As String
